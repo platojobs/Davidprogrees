@@ -6,7 +6,7 @@
 -------------------------
 
 
-```objective_c
+```objective-c
 
  self.progress=[[DavidProgress alloc]initWithFrame:CGRectMake(0, 80, self.view.bounds.size.width, 70)];
     
